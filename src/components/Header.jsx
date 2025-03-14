@@ -35,7 +35,7 @@ const Header = () => {
 
           {/* Hire Me Button - Downloads Resume */}
           <a
-            href="./public/Abhijit_Kadam_Resume.pdf"
+            href="/Abhijit_Kadam_Resume.pdf"
             download="Abhijit_Kadam_Resume.pdf"
             style={{
               padding: "10px 25px",
@@ -81,7 +81,7 @@ const Header = () => {
 
             {/* Hire Me Button for Mobile */}
             <a
-              href="./public/Abhijit_Kadam_Resume.pdf"
+              href="/Abhijit_Kadam_Resume.pdf"
               download="Abhijit_Kadam_Resume.pdf"
               style={{
                 padding: "10px 25px",
