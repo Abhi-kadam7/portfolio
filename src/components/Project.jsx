@@ -20,13 +20,20 @@ const Project = () => {
     {
       title: 'Job Cards Project',
       description: 'A React.js project to practice props and reusable components with dynamic rendering and state management. This project helped me understand component reusability and passing data via props effectively.',
-      link: '#' 
+      link: 'http://react-mini-project-props.vercel.app/' 
     },
     {
       title: 'Digital Clock using Hooks',
       description: 'A React.js clock application built using useState and useEffect hooks for real-time updates. This project helped me strengthen my understanding of React hooks and state management.',
-      link: '#' 
-    }
+      link: 'https://digital-clock-five-chi.vercel.app/' 
+    },
+    {
+  title: 'Movie Explorer',
+  description:
+    'A Movie Explorer web application built using React.js and the OMDb API. Users can search for movies, view detailed information, and explore different titles with a clean and responsive UI. This project demonstrates API integration, React Hooks, routing with React Router, and efficient state management.',
+  link: 'https://movies-exploarer.vercel.app/' 
+}
+
   ]);
 
   return (
